@@ -1,0 +1,12 @@
+theme: minima
+title: LMS security notes
+description: Practical notes on LMS security monitoring for Canvas, Moodle, and other learning platforms.
+author: Luuk Verhoeven
+url: https://luukverhoeven.github.io
+baseurl: /lms-security-notes
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+header_pages:
+  - about.md
